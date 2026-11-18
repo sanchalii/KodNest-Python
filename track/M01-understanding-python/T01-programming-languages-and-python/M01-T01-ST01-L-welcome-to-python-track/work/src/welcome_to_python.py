@@ -21,7 +21,7 @@ print("I want to become a data scientand an AI engineer.ist ")
 #Complete these sentences:
 
 #programming means: 
-print("Interac with the computer and giving it instructions to perform a task")
+print("Interact  with the computer and giving it instructions to perform a task")
 
 # python is ]
 print("A programming languthat is easy to learn and has a wide range of applications.age ")
